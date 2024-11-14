@@ -1,7 +1,7 @@
 /******************
-Name:
-ID:
-Assignment:
+Name:Maayan Ben Ari
+ID:325031946
+Assignment:Ex1
 *******************/
 #include <stdio.h>
 
